@@ -1,1 +1,0 @@
-# farmit-mobile
